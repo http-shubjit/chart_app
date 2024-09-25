@@ -16,7 +16,9 @@ function App() {
 
      
       </Routes> */}
-         <Login/>
+      {/* <Login /> */}
+      {/* <SignUp /> */}
+      <Home/>
       <Toaster />
 
     </div>
